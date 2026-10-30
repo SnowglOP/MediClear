@@ -43,3 +43,5 @@ Under the **Rolling 7 Day Tracker**, the app automatically detects today's real 
 At the bottom of the page, MediClear creates a **30 Second Doctor Visit Summary** showing your lab math, your swaps, and all your logged dates. Click **Download Doctor Summary (.txt)** to save it for your next checkup.
 
 To view old checkups, click the **Past Extracted PDFs & History** tab at the top (or use the list in the left sidebar). From there, you can switch between past PDFs in one click, inspect the raw extracted text, delete a single report, or wipe your entire saved history.
+
+#### Made with the assistance of AI
