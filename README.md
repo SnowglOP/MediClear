@@ -44,4 +44,4 @@ At the bottom of the page, MediClear creates a **30 Second Doctor Visit Summary*
 
 To view old checkups, click the **Past Extracted PDFs & History** tab at the top (or use the list in the left sidebar). From there, you can switch between past PDFs in one click, inspect the raw extracted text, delete a single report, or wipe your entire saved history.
 
-#### Made with the assistance of AI
+#### Made with the assistance of AI. Made for the Congressional App Challenge with a partner.
